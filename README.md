@@ -1,5 +1,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Title
+
+News Feed
+
+## Motivation
+
+1. Get the top headlines from different news sources and do it in one place.
+
+2. Apply React.js to my own project. I decided on a News Feed app because I personally like browsing through news from across different categories - something I made the app do in a simple and clean UI.
+
+## Tech/Framework Used
+
+### Built with
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## API
+
+[News API] (https://newsapi.org)
+
 ## Available Scripts
 
 In the project directory, you can run:
