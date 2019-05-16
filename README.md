@@ -21,7 +21,7 @@ News Feed
 
 ## API
 
-[News API] (https://newsapi.org)
+[News API](https://newsapi.org)
 
 ## Available Scripts
 
