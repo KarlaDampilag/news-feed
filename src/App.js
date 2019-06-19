@@ -25,16 +25,7 @@ class App extends Component {
         this.setState({articles: response.articles});
       });
   }
-/*
-TODO
-
-- make home page to display the top headline in US
-- when a category is clicked, use route to render
-- on mobile, make sidebar into hamburger and make the
-  feed flow vertically not horizontally
-- uninstall all dependencies you're not using
-- apply scss
-*/
+  
   render() {
     return (
       <div className="container">
